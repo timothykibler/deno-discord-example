@@ -1,1 +1,1 @@
-deno-discord-example
+i can't typescript
